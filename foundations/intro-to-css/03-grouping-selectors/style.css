@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.btone {
+    background-color: #000;
+    color: rgb(255, 255, 255);
+}
+
+.bttwo {
+    background-color: rgb(246, 255, 0);
+}
+
+.btone, .bttwo {
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
